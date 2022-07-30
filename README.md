@@ -24,7 +24,7 @@ Deploy the bacula community edition on Docker Containers.
 
 ## Download and Install Bacula Container
 
-    git clone https://github.com/fametec/bacula
+    git clone https://github.com/diegovaz7/diegovaz
     cd bacula/docker
     docker-compose up
 
@@ -34,12 +34,6 @@ Deploy the bacula community edition on Docker Containers.
     > bconsole
     * 
     
-    
-## Video
-
-#[![asciicast](https://asciinema.org/a/279317.svg)](https://asciinema.org/a/279317)
-
-
 ## Docker Compose
 
 docker-compose.yaml
