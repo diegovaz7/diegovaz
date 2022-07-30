@@ -37,13 +37,12 @@ Deploy the bacula community edition on Docker Containers.
     
 ## Video
 
-[![asciicast](https://asciinema.org/a/279317.svg)](https://asciinema.org/a/279317)
+#[![asciicast](https://asciinema.org/a/279317.svg)](https://asciinema.org/a/279317)
 
 
 ## Docker Compose
 
 docker-compose.yaml
-
 
     version: '3.1'
     services:
@@ -90,17 +89,6 @@ docker-compose.yaml
           - 9102
     volumes:
       pgdata:
-
-## Support
-
-For technical support please contact us. 
-
-suporte@fametec.com.br
-
-## e-Learning 
-
-https://www.fametec.com.br
-
 
 ## Reference
 
